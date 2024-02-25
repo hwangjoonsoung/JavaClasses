@@ -1,0 +1,13 @@
+
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ßğ°øÿÿÿÿ8œİé¨Õ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹õç»8İé¨Õ1
+G
+java:S1197"*Move the array designators [] to the type.(Î¤èÁ8ºİé¨Õ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¼İé¨Õ1
+G
+java:S1197"*Move the array designators [] to the type.(¾ÙÑ¦8½İé¨Õ1
+L
+java:S1197"*Move the array designators [] to the type.(ÄÔí±ùÿÿÿÿ8¾İé¨Õ1
+L	java:S106%"+Replace this use of System.out by a logger.(„¥™Óúÿÿÿÿ8¿İé¨Õ1
+G	java:S106'"+Replace this use of System.out by a logger.(Û¾Ï8Àİé¨Õ1

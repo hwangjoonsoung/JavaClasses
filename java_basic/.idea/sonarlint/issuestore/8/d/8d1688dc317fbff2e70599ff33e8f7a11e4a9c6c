@@ -1,0 +1,11 @@
+
+n
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(äå•8Ğı¹§Õ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôªˆ‡ûÿÿÿÿ8Ñı¹§Õ1
+H
+java:S2387"+"value" is the name of a field in "Parent".(äå•8Ùı¹§Õ1
+L	java:S106
+"+Replace this use of System.out by a logger.(àóëöıÿÿÿÿ8àı¹§Õ1
+L	java:S106"+Replace this use of System.out by a logger.(àóëöıÿÿÿÿ8ÔÎº§Õ1
+Y
+java:S1128"<Remove this unused import 'com.sun.deploy.util.StringUtils'.(Ï¥¯ö8áı¹§Õ1

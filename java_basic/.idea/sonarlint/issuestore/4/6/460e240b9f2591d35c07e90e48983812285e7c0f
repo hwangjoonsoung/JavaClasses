@@ -1,0 +1,23 @@
+
+x
+java:S1192"[Define a constant instead of duplicating this literal "ë™ë¬¼ì†Œë¦¬ í…ŒìŠ¤íŠ¸ ë" 5 times.(´³°®8§Éù§Õ1
+€
+java:S1192
+"^Define a constant instead of duplicating this literal "ë™ë¬¼ì†Œë¦¬ í…ŒìŠ¤íŠ¸ ì‹œì‘" 5 times.(±Ö„åøÿÿÿÿ8§Éù§Õ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈƒÒe8úÂø§Õ1
+L	java:S106
+"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8‡Ãø§Õ1
+G	java:S106"+Replace this use of System.out by a logger.(´³°®8¥™ù§Õ1
+L	java:S106"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8³Éù§Õ1
+G	java:S106"+Replace this use of System.out by a logger.(´³°®8¶Éù§Õ1
+L	java:S106"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8»Éù§Õ1
+G	java:S106"+Replace this use of System.out by a logger.(´³°®8¼Éù§Õ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÛªÅ8Èƒ‹¨Õ1
+L	java:S106!"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8ïÉş§Õ1
+G	java:S106#"+Replace this use of System.out by a logger.(´³°®8ïÉş§Õ1
+L	java:S106'"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8ú¨¨Õ1
+G	java:S106)"+Replace this use of System.out by a logger.(´³°®8ú¨¨Õ1
+O
+java:S1144 "-Remove this unused private "soundCow" method.(–¾…õşÿÿÿÿ8 ˜€¨Õ1
+J
+java:S1144&"-Remove this unused private "soundCat" method.(¬š©ü8üæ¨Õ1
