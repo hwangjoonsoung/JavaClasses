@@ -1,7 +1,5 @@
 package day4;
 
-import com.sun.xml.internal.messaging.saaj.packaging.mime.internet.MimePullMultipart;
-
 public class BankAccount {
     private int balance;
 

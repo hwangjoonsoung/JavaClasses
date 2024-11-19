@@ -1,7 +1,5 @@
 package day2;
 
-import sun.util.resources.de.CurrencyNames_de_GR;
-
 public class Method {
 
     public static void main(String[] args) {
