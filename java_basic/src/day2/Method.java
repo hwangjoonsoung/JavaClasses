@@ -17,23 +17,24 @@ public class Method {
         printStudent(student2);
 
         Student student3 = new Student();
-        initStudent(student3 , "kim" , 15,20);
+        initStudent(student3, "kim", 15, 20);
         printStudent(student3);
 
-        Student student = createStudent("jang" , 20 ,50);
+        Student student = createStudent("jang", 20, 50);
         printStudent(student);
     }
 
-    static void printStudent(Student student){
-        System.out.println("이름 :"+ student.name + " 나이 : "+student.age + " 성적 : "+student.grade);
+    static void printStudent(Student student) {
+        System.out.println("이름 :" + student.name + " 나이 : " + student.age + " 성적 : " + student.grade);
     }
-    static void initStudent(Student student , String name , int age , int grade){
+
+    static void initStudent(Student student, String name, int age, int grade) {
         student.age = age;
-        student.grade =grade;
+        student.grade = grade;
         student.name = name;
     }
 
-    static Student createStudent( String name , int age , int grade){
+    static Student createStudent(String name, int age, int grade) {
         Student student = new Student();
         student.name = name;
         student.age = age;
@@ -43,11 +44,10 @@ public class Method {
 }
 
 
-class Student{
+class Student {
     String name;
     int age;
     int grade;
-
 
 
 }
