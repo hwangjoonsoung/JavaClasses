@@ -14,7 +14,6 @@ day7 : 다형성 , 다형성 설계<br>
 - 따라서 해당 인스턴스를 sysout하게 되면 주소값을 확인 할 수 있고 인스턴스를 통해서 필드변수에 접근할 수 있다.
 ![img.png](img.png)
 - 위 내용을 코드로 정리 하면
-
 ```java
     String newInstance = new String("test"); //주소값이 x100이라고 가정
     newInstance.equals("test"); //== x100.equals("test"); 주소값으로 해당 변수,함수 접근 가능

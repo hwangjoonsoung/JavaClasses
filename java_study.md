@@ -19,5 +19,5 @@ https://junhyunny.github.io/java/auto-boxing-performance-test/
 - generic에 사용해야 하는 경우!
 
 ### 그럼 우리가 사용할때 주의해야 하는 점은?
-- 오토 언박싱에서 성능이슈를 주의해야 한다.
-- 
+- 오토 언박싱에서 성능이슈를 주의해야 한다. 왜? 그럴까?
+- 개발 하면서 lib많이 사용할텐데 return되는 데이터 타입의 여부를 확인해 주는 것이 좋다.

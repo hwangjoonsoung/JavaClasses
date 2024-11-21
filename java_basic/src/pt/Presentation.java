@@ -1,6 +1,5 @@
 package pt;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -27,7 +26,7 @@ public class Presentation {
         System.out.println(aInteger instanceof Integer);
         Boolean testst = aInteger == aInteger;
 
-        Map<String, int> test = new HashMap<String, int>();
+//        Map<String, int> test = new HashMap<String, int>();
     }
 
 }

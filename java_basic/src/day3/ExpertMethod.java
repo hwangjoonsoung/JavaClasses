@@ -20,6 +20,7 @@ public class ExpertMethod {
 
         //음악 플레이서 상태
         System.out.println("음악플레이서 상태 확인");
+        showStatus(MusicPlayerData2);
 
         //음악 플레이어 끄기
         off(MusicPlayerData2);
@@ -43,7 +44,14 @@ public class ExpertMethod {
         System.out.println("음량 줄이기 volnum : "+ musicPlayerData2.volum);
     }
 
-
+    static void showStatus(MusicPlayerData2 musicPlayerData2){
+        boolean isOn = musicPlayerData2.isOn;
+        if(isOn ){
+            System.out.println("켜짐");
+        }else{
+            System.out.println("꺼짐");
+        }
+    }
 
 }
 
