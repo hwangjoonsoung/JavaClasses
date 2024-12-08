@@ -1,7 +1,5 @@
 package day7.oopsolve;
 
-import static sun.rmi.transport.TransportConstants.Ping;
-
 public class SolveClass2 {
 
     public static void main(String[] args) {
