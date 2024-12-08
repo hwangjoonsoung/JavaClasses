@@ -1,24 +1,28 @@
+import day1.ClassStart1;
+
+import java.sql.DatabaseMetaData;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
+        Data2 data1 = new Data2();
+        data1.count++;
 
-        Map map = new HashMap();
-        map.put(1,"test");
-        map.put(2,"test");
-        map.put(3,"test");
-        map.put(4,"test");
+        Data2 Data2 = new Data2();
+        Data2.count++;
 
-        Main main =new Main();
-        main.testzzzz((HashMap) map);
+        System.out.println("Data2.count = " + Data2.count);
+        System.out.println("Data2.count = " + data1.count);
 
-
-
-    }
-    private void testzzzz(HashMap map){
-        System.out.println(map);
+        int count = new Data2().count;
+        System.out.println(count);
+        int count1 = Data2.count;
     }
 
+}
 
+class Data2 {
+    public String name;
+    public static int count;
 }
